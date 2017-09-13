@@ -326,6 +326,9 @@ ModelImporter:
     100636: Plane_041
     100638: Plane_042
     100640: Sphere
+    100642: Cube_263
+    100644: Plane_031
+    100646: Plane_039
     400000: //RootNode
     400002: Cube
     400004: Cube_001
@@ -647,6 +650,9 @@ ModelImporter:
     400636: Plane_041
     400638: Plane_042
     400640: Sphere
+    400642: Cube_263
+    400644: Plane_031
+    400646: Plane_039
     2300000: Cube
     2300002: Cube_001
     2300004: Cube_002
@@ -967,6 +973,9 @@ ModelImporter:
     2300634: Plane_041
     2300636: Plane_042
     2300638: Sphere
+    2300640: Cube_263
+    2300642: Plane_031
+    2300644: Plane_039
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -1287,6 +1296,9 @@ ModelImporter:
     3300634: Plane_041
     3300636: Plane_042
     3300638: Sphere
+    3300640: Cube_263
+    3300642: Plane_031
+    3300644: Plane_039
     4300000: Sphere
     4300002: Cube_163
     4300004: Cube_162
@@ -1607,6 +1619,9 @@ ModelImporter:
     4300634: Cube_262
     4300636: Cylinder_036
     4300638: Cylinder_037
+    4300640: Cube_263
+    4300642: Plane_031
+    4300644: Plane_039
     7400000: Default Take
     9500000: //RootNode
   materials:
